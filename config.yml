@@ -1,0 +1,11 @@
+# refresh-rate: Set leaderboard refresh rate in ticks
+refresh-rate: 10
+# top-stat-threshold: Set threshold of top stats to show
+top-stat-threshold: 5
+
+# language: Set leaderboard format
+language:
+ head-line: "Top {STAT}"
+ stat-line: "{RANK} - {PLAYER} with {COUNT} {STAT}"
+ centered: true
+ center-with-spaces: false # Only works with custom "monospace" fonts. (Which can be used via a resource pack.)

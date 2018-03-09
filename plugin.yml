@@ -1,0 +1,7 @@
+name: LeaderBoard
+main: LeaderBoard\LeaderBoard
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
+version: 1.0.0
+
+author: kenygamer
+description: A PocketMine-MP plugin to create floating leaderboards your server
